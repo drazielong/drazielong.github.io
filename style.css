@@ -1,15 +1,30 @@
+.body
+{
+    background-image: url("images/gigyas.jpg");
+    background-repeat: repeat;
+}
+
+.box
+{
+    background-color: rgb(23, 30, 32);
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.pokey
+{
+    position: absolute;
+    right: 10px;
+    bottom: 0;
+}
+
 .text
 {
     color: red;
     font-size: 28;
     font-family: 'Courier New', Courier, monospace;
     font-style: bold;
-}
-
-.box
-{
-    background-color: rgb(27, 43, 46);
-    padding: 20px;
-    width: 50%;
     text-align: center;
 }
