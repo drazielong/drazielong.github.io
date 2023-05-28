@@ -8,16 +8,15 @@
 {
     background-color: rgb(23, 30, 32);
     padding: 20px;
-    width: 1280px;
+    width: 70%;
     text-align: center;
     margin: auto;
 }
 
 .pokey
 {
-    position: absolute;
-    right: 10px;
-    bottom: 0;
+    position: relative;
+    left: 90%;
 }
 
 .text
